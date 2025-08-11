@@ -1,0 +1,25 @@
+# Generated/temporary files
+stagingjo_cleaned.csv
+*.pyc
+__pycache__/
+
+# Database files
+*.db
+*.sqlite
+
+# Log files
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# PostgreSQL dumps
+*.sql.gz
+*.dump
